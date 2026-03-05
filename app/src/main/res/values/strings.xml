@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">quizke2</string>
+    <string-array name="pilihan_menu">
+        <item>2AEC1</item>
+        <item>2AEC2</item>
+        <item>2AEC3</item>
+        <item>2AEC4</item>
+    </string-array>
+</resources>
